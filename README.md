@@ -3,7 +3,7 @@
 ```
 # apt-get update
 # apt-get install -y git
-# git clone https://github.com/orangepi-xunlong/wiringOP.git
+# git clone https://github.com/supeindesu/wiringOP.git
 ```
 
 ## How to build wiringOP
